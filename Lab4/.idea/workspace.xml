@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bwPjc6bzsqB2nvZeiAJnSUjsI0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,10 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1590585931027">
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1591639750892">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1590585931027" />
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1591639750892" />
     <state width="1322" height="199" key="GridCell.Tab.0.bottom" timestamp="1590587137632">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -86,5 +90,9 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1322" height="199" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1590587137632" />
+    <state x="350" y="30" key="new project wizard" timestamp="1591639754544">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="350" y="30" key="new project wizard/0.30.1366.738@0.30.1366.738" timestamp="1591639754544" />
   </component>
 </project>
