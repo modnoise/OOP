@@ -8,7 +8,7 @@ public class Client {
     }
 
     public void startLiveInTheSystem() {
-        System.out.println("Word entrances quantity: " + text.findWordEntrancesQuantity("фермер"));
+        System.out.println("The word has been found in " + text.findWordEntrancesQuantity("фермером") + " sentences");
     }
 
 }

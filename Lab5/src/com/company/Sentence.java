@@ -45,6 +45,7 @@ public class Sentence {
                 Word word = (Word) sentenceElement;
                 if (word.equalsString(wordString)) {
                     wordEntrancesQuantity++;
+                    break;
                 }
             }
         }
